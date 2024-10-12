@@ -37,15 +37,15 @@
 # 2D Game Shooting Game Demo 
 
 - Loading Screen
-- 
+
 ![shooting game 1](https://github.com/user-attachments/assets/60827872-ad7d-4092-a128-ee261696ca9a)
 
 - Live game footage
-- 
+
 ![shooting game 2](https://github.com/user-attachments/assets/56cefcf4-cf0c-4e74-b13b-04e9fa9dc570)
 
 - Restart screen
-- 
+
 ![shooting game 3](https://github.com/user-attachments/assets/ea43d3ef-777e-4bb1-bf35-294448a3c042)
 
 
