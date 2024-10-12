@@ -42,7 +42,7 @@
 - Live game footage
 ![shooting game 2](https://github.com/user-attachments/assets/56cefcf4-cf0c-4e74-b13b-04e9fa9dc570)
 
--Restart screen
+- Restart screen
 ![shooting game 3](https://github.com/user-attachments/assets/ea43d3ef-777e-4bb1-bf35-294448a3c042)
 
 
